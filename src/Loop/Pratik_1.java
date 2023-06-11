@@ -28,7 +28,7 @@ public class Pratik_1 {
 		System.out.println("Girilen sayıya kadar 3 ve 4 bölünebilen sayıların toplamı: " + sum);
 		
 		
-		System.out.println("Girilen sayıya kadar 3 ve 4 bölünebilen sayıların ortalaması:" + (sum/quantity));
+		System.out.println("Girilen sayıya kadar 3 ve 4 bölünebilen sayıların ortalaması: " + (sum/quantity));
 
 	}
 
