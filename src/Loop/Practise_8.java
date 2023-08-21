@@ -36,6 +36,9 @@ public class Practise_8 {
                 }
         	
             System.out.println();
+            
+            
+            
         	
         }
         
