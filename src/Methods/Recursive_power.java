@@ -8,6 +8,7 @@ public class Recursive_power {
 		}
 		return result *= x * recpow(x, --y);
 	}
+	
 	public static void main(String[] args) {
 		while(true) {
 			Scanner inp = new Scanner(System.in);
