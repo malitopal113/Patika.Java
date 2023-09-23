@@ -62,7 +62,7 @@ public class Match {
 		}
 		return false;
 	}
-	// if random number is bigger than 0.5; f1(fighter1) will start, otherwise f2(fighter2) start...
+	// if random number is bigger than 0.5; f1(fighter1) starts, otherwise f2(fighter2) starts.
 	boolean firstKick() {
 		double randomNumber = Math.random() * 1;
 		return randomNumber > 0.5;
